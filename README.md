@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprasannavg&label=Profile%20views&color=0e75b6&style=flat" alt="suprasannavg" /> </p>
 
-- 📄 Know about my experiences [https://pdflink.to/a3c02608/](https://pdflink.to/a3c02608/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
